@@ -1,0 +1,50 @@
+candidate:
+  full_name: "Jeevan Reddy Poreddy"
+    email: "poreddyjeevanreddy@mail.com"
+      phone: "0411 471 455"
+        location: "Homebush, NSW 2140"
+          linkedin: "linkedin.com/in/jeevanreddy"
+            github: "github.com/jeevanreddy23"
+
+            target_roles:
+              primary:
+                  - "Senior Geotechnical Engineer"
+                      - "Lead Field Specialist"
+                          - "Geotechnical Data Automation Specialist"
+                            archetypes:
+                                - name: "Consulting Geotechnical Engineer"
+                                      level: "Senior"
+                                            fit: "primary"
+                                                - name: "Mining Geotechnical Engineer"
+                                                      level: "Senior"
+                                                            fit: "primary"
+                                                                - name: "Geotechnician"
+                                                                      level: "Lead"
+                                                                            fit: "secondary"
+
+                                                                            narrative:
+                                                                              headline: "Geotechnical Engineer | Data Automation Specialist | AS 1726 Expert"
+                                                                                exit_story: "Combining 2.5+ years of specialist field experience with advanced Python automation to modernize geotechnical reporting and analysis."
+                                                                                  superpowers:
+                                                                                      - "AS 1726:2017 Compliant Logging"
+                                                                                          - "In-Situ Testing (PLT, Permeability)"
+                                                                                              - "Geotechnical Data Automation (Python/OpenCV)"
+                                                                                                  - "Instrumentation & Monitoring (Triaxial Geophones)"
+                                                                                                    proof_points:
+                                                                                                        - name: "Auto-Soil-Logger"
+                                                                                                              url: "https://github.com/jeevanreddy23/Auto-Soil-Logger-Project-1"
+                                                                                                                    hero_metric: "Automated AS 1726 compliant borehole log generation using AI."
+                                                                                                                        - name: "Field Testing Lead"
+                                                                                                                              hero_metric: "Managed complex geotechnical programs for NSW infrastructure projects."
+                                                                                                                              
+                                                                                                                              compensation:
+                                                                                                                                target_range: "$130K-170K AUD"
+                                                                                                                                  currency: "AUD"
+                                                                                                                                    minimum: "$120K AUD"
+                                                                                                                                      location_flexibility: "Sydney-based, regional/site travel possible"
+                                                                                                                                      
+                                                                                                                                      location:
+                                                                                                                                        country: "Australia"
+                                                                                                                                          city: "Sydney"
+                                                                                                                                            timezone: "AEST"
+                                                                                                                                              visa_status: "Full Australian C-Class License"
