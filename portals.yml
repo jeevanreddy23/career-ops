@@ -1,0 +1,29 @@
+# Portal Scanner Configuration
+# Used by /career-ops scan to discover new offers automatically.
+
+title_filter:
+  positive:
+    - "Geotechnical Engineer"
+    - "Geotechnician"
+  negative:
+    - "Software"
+    - "React"
+    - "Frontend"
+
+tracked_companies:
+  - name: "Rio Tinto"
+    careers_url: "https://www.riotinto.com/en/careers"
+    enabled: true
+  - name: "BHP"
+    careers_url: "https://careers.bhp.com/"
+    enabled: true
+  - name: "WSP"
+    careers_url: "https://www.wsp.com/en-AU/careers"
+    enabled: true
+  - name: "Douglas Partners"
+    careers_url: "https://www.douglaspartners.com.au/careers"
+    enabled: true
+
+search_queries:
+  - "site:seek.com.au 'Geotechnical Engineer'"
+  - "site:linkedin.com/jobs 'Geotechnical Engineer' Australia"
